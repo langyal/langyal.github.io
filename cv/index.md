@@ -2,18 +2,21 @@
 layout: cv
 title: Laszlo Angyal's CV
 ---
-# Curriculum Vitae
+# László Angyal
+<div id="webaddress">
+just a unix guy
+</div>
 
 ## Personal details
-
-### FIRST NAME / SURNAME
-__László Angyal__
 
 ### NATIONALITY
 Hungarian
 
 ### DATE OF BIRTH
 28/06/1967
+
+### GENDER
+Male
 
 ### CONTACT
 `address`
@@ -149,9 +152,8 @@ French (basic), Russian (basic)
 
 ### COOPERATION
 
-- Sensitivity to the problems of people
 - Solution oriented approach
-- Favoring the "laisser faire" leading methodology
+- Sensitivity for the problems of people
 - Experience with the agile framework
 
 ### HOBBIES
