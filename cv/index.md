@@ -43,6 +43,10 @@ Male
 
 ## Work experience
 
+### E2E CLOUD DESIGNER
+`Employer`
+Deutsche Telekom Cloud Services k.f.t.
+
 ### CLOUD PRODUCT OWNER
 `Employer`
 Deutsche Telekom Pan-Net Hungary
@@ -87,6 +91,7 @@ ARC/INFO
 ### CLOUD
 - Openstack
 - Kubernetes
+- Google Cloud
 
 ### INFRASTRUCTURE
 - MaaS/Juju
@@ -114,7 +119,7 @@ ARC/INFO
 __Eötvös Loránd University, Faculty of Science, Budapest__
 - Geophysics
 
-## Trainings
+## Trainings / Certifications
 
 `2005`
 IBM Certified Specialist - pSeries and AIX 5L V5.2
@@ -140,6 +145,9 @@ VMware Certified Professional v5
 `2015`
 Ubuntu OpenStack Fundamentals Training
 
+`2023`
+Google Cloud Certified Professional Cloud Architect
+
 ## Skills and interests
 
 ### LANGUAGES
@@ -157,6 +165,7 @@ French (basic), Russian (basic)
 - Experience with the agile framework
 
 ### HOBBIES
+
 `outdoor`
 - travel
 - mountain climbing
