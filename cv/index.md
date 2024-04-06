@@ -148,6 +148,9 @@ Ubuntu OpenStack Fundamentals Training
 `2023`
 Google Cloud Certified Professional Cloud Architect
 
+`2024`
+CKA: Certified Kubernetes Administrator
+
 ## Skills and interests
 
 ### LANGUAGES
