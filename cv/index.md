@@ -170,14 +170,14 @@ French (basic), Russian (basic)
 ### HOBBIES
 
 `outdoor`
-- travel
-- mountain climbing
-- via ferrata
+- travelling
+- mountain climbing / via ferrata
+- motorcycling
 
 `sport`
 - football
-- badminton
-- motorcycling
+- badminton / speedminton / squash
+- sup / kayaking / canoeing
 
 <!-- ### Footer
 
