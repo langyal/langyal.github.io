@@ -47,6 +47,15 @@ Male
 `Employer`
 Deutsche Telekom Cloud Services k.f.t.
 
+`Business`
+Design E2E solutions for our Customers
+
+`Technology`
+Our portfolio consist of in-house developed products: IaaS (Openstack), Caas (Kubernetes), STaaS (Ceph)
+
+`Dates`
+2023-present
+
 ### CLOUD PRODUCT OWNER
 `Employer`
 Deutsche Telekom Pan-Net Hungary
@@ -58,7 +67,7 @@ Development and Operation of Private Clouds based on Openstack
 Canonical's toolset: MaaS, Juju and in-house developed Infrastructure-as-Code pipelines
 
 `Dates`
-2018-present
+2018-2023
 
 ### CHIEF ARCHITECT
 `Employer`
