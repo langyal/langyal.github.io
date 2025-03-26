@@ -74,13 +74,13 @@ Male
   - Canonical for Openstack
 - the outcome was our first release called Lithium
 
-### 2015: Migration of the IT workload of RWE Hungary from one provider (IBM) to the other (T-Systems Hungary)
+### 2015: Migration of the IT workload from one provider to the other in the Energy domain 
 - that was a 9 months long project
 - we used various technologies for the migration: storage synchronization, VM migration (VMware) and IBM POWER based workload migration
 - we had to keep the applications running as long as possible
 - we had to migrate the network, including firewalls, routers, remote device management
 
-### 2013: Budapest Bank, Solaris virtualization
+### 2013: Solaris virtualization in the Finance domain
 - the bank was forced to run a legacy application
 - all they had a backup of the application on a Solaris 8 based installation
 - we had to run the application on a modern hardware that obviously did not support Solaris 8 any more
@@ -91,7 +91,7 @@ Male
 ### 1994-2013: working for more than 120 different companies in Hungary
 - system integration based on various technologies: Solaris/SPARC, IBM/POWER, HPUX/PA-RISC, VMware
 - firewall design and integration with proxy based and stateful packet filtering solutions (Checkpoint FW-1)
-- editing sendmail.cf configuration with vi (this is not a joke, that was my first real added value in 1994 for my company)
+- providing end-to-end solution design for the infrastructure: virtualization, network, storage, security
 
 ## Career
 
@@ -231,7 +231,7 @@ French (basic), Russian (basic)
 ### HOBBIES
 
 `outdoor`
-- travelling
+- traveling
 - mountain climbing / via ferrata
 - motorcycling
 
